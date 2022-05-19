@@ -33,6 +33,8 @@ While that is helpful, to further evaluate the spread of the data I needed to fi
 
 We can also us that information along with the IQR to know that the successful campaigns IQR of pledged amount was higher than the IQR of the Goal, whereas for the failed campaigns, the IQR of goal amount was almost 20 times higher than the IQR of the pledged amount.  
 
+![](Resource/DescriptiveStatistics.png)
+
 ## Review
 
 Based on the data I have worked through; it seems that success is tangible but there will need to be some tweaking to your setup. I would recommend that you begin your campaign in May. When evaluating the goal and pledge amount, I concluded that higher campaigns have a higher chance of failing.  Considering your goal is in the upper 10,000 – it might be risky to go with that amount for your first campaign. It also appears that successful campaigns received higher pledge amounts, which is possibly how they met their goal or even go beyond. So, finding potential larger donators, setting your goal to 6k at max might be the best way for you to get funded. There are plenty of campaigns who went over their goal amount, so there is also still a chance for you to make it closer to the 10k you originally estimated.
